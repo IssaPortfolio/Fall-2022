@@ -1,0 +1,16 @@
+﻿  linkedListIterator.cpp
+  linkedListType.cpp
+  main.cpp
+  orderedLinkedList.cpp
+  unorderedLinkedList.cpp
+  Generating Code...
+main.obj : error LNK2019: unresolved external symbol "public: class linkedListType<int> const & __cdecl linkedListType<int>::operator=(class linkedListType<int> const &)" (??4?$linkedListType@H@@QEAAAEBV0@AEBV0@@Z) referenced in function "public: class orderedLinkedList<int> & __cdecl orderedLinkedList<int>::operator=(class orderedLinkedList<int> const &)" (??4?$orderedLinkedList@H@@QEAAAEAV0@AEBV0@@Z)
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl linkedListType<int>::print(void)const " (?print@?$linkedListType@H@@QEBAXXZ) referenced in function main
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl linkedListType<int>::linkedListType<int>(void)" (??0?$linkedListType@H@@QEAA@XZ) referenced in function "public: __cdecl orderedLinkedList<int>::orderedLinkedList<int>(void)" (??0?$orderedLinkedList@H@@QEAA@XZ)
+main.obj : error LNK2019: unresolved external symbol "public: __cdecl linkedListType<int>::~linkedListType<int>(void)" (??1?$linkedListType@H@@QEAA@XZ) referenced in function "public: __cdecl orderedLinkedList<int>::~orderedLinkedList<int>(void)" (??1?$orderedLinkedList@H@@QEAA@XZ)
+main.obj : error LNK2001: unresolved external symbol "public: virtual bool __cdecl orderedLinkedList<int>::search(int const &)const " (?search@?$orderedLinkedList@H@@UEBA_NAEBH@Z)
+main.obj : error LNK2019: unresolved external symbol "public: void __cdecl orderedLinkedList<int>::insert(int const &)" (?insert@?$orderedLinkedList@H@@QEAAXAEBH@Z) referenced in function main
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl orderedLinkedList<int>::insertFirst(int const &)" (?insertFirst@?$orderedLinkedList@H@@UEAAXAEBH@Z)
+main.obj : error LNK2001: unresolved external symbol "public: virtual void __cdecl orderedLinkedList<int>::insertLast(int const &)" (?insertLast@?$orderedLinkedList@H@@UEAAXAEBH@Z)
+main.obj : error LNK2019: unresolved external symbol "public: virtual void __cdecl orderedLinkedList<int>::deleteNode(int const &)" (?deleteNode@?$orderedLinkedList@H@@UEAAXAEBH@Z) referenced in function main
+D:\Desktop\FALL 2022\C++\Linked List Type and Linked list Iterator code\x64\Debug\Linked List Type and Linked list Iterator code.exe : fatal error LNK1120: 9 unresolved externals
