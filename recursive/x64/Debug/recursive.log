@@ -1,0 +1,3 @@
+﻿  recursive.cpp
+D:\Desktop\FALL 2022\C++\recursive\recursive.cpp(15): warning C4715: 'gcd': not all control paths return a value
+  recursive.vcxproj -> D:\Desktop\FALL 2022\C++\recursive\x64\Debug\recursive.exe
