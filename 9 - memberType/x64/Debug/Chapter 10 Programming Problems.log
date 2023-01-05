@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  memberType.cpp
+D:\Desktop\FALL 2022\C++\9 - memberType\memberType.cpp(44,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Chapter 10 Programming Problems.vcxproj -> D:\Desktop\FALL 2022\C++\9 - memberType\x64\Debug\Programming Problems 9 - memberType.exe

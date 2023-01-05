@@ -1,0 +1,18 @@
+﻿  bankAccount.cpp
+  main.cpp
+D:\Desktop\FALL 2022\C++\16 - bankAccount\main.cpp(19,40): error C2248: 'bankAccount::accName': cannot access private member declared in class 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(10): message : see declaration of 'bankAccount::accName'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(6): message : see declaration of 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\main.cpp(19,96): error C2248: 'bankAccount::accNum': cannot access private member declared in class 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(11): message : see declaration of 'bankAccount::accNum'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(6): message : see declaration of 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\main.cpp(20,48): error C2248: 'bankAccount::accType': cannot access private member declared in class 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(12): message : see declaration of 'bankAccount::accType'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(6): message : see declaration of 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\main.cpp(20,102): error C2248: 'bankAccount::accBalance': cannot access private member declared in class 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(13): message : see declaration of 'bankAccount::accBalance'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(6): message : see declaration of 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\main.cpp(21,59): error C2248: 'bankAccount::accInterestRate': cannot access private member declared in class 'bankAccount'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(14): message : see declaration of 'bankAccount::accInterestRate'
+D:\Desktop\FALL 2022\C++\16 - bankAccount\bankAccount.h(6): message : see declaration of 'bankAccount'
+  Generating Code...
