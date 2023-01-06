@@ -1,2 +1,2 @@
 # Fall-2022
-C++ 2
+ITCS-2550: C++ Programming 2
